@@ -49,8 +49,3 @@ Explanation:
 The total sum is 5 + -2 + -4 + 9 + 5 + 14 = 27.
 
 
-Please don't hesitate to ask any questions with a thread under this message!
-
-Please share your solutions using direct mesage on slack to @Rafe Stefano
-
-Happy coding! 😃
